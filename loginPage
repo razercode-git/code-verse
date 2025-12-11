@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Login</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h2>Login</h2>
+    <form>
+      <input type="text" placeholder="Username" required><br>
+      <input type="password" placeholder="Password" required><br>
+      <a href="dashboard.html"><button type="button">Login</button></a>
+    </form>
+    <p>Don't have an account? <a href="register.html">Register</a></p>
+  </div>
+</body>
+</html>
